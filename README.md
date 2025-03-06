@@ -2,7 +2,6 @@
 
 ## Overview
 This project demonstrates real-time hand tracking using **OpenCV** and **Mediapipe**. It detects and tracks hand landmarks in a video stream, allowing you to visualize the hand's key points and connections. The project is implemented in Python and can be used as a foundation for gesture recognition, virtual mouse control, or other hand-based interaction systems.
-![image](https://github.com/user-attachments/assets/a41e545e-7f7b-4233-8507-efe6bdaa32d1)
 
 ---
 
